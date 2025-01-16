@@ -1,0 +1,15 @@
+{
+  "originUrl": "https://ottawagranite.com/",
+  "totalUrls": 0,
+  "urls": [],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "logger": {}
+  },
+  "method": "SITEMAP"
+}
