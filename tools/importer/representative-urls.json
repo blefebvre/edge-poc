@@ -1,0 +1,104 @@
+{
+  "originUrl": "https://implementationdetails.dev/",
+  "totalUrls": 62,
+  "urls": [
+    {
+      "url": "https://implementationdetails.dev/blog/2013/06/20/cqcon-2013-mobile-first/",
+      "repCount": 25
+    },
+    {
+      "url": "https://implementationdetails.dev/blog/2014/04/10/aemhub-mobile-apps-in-aem/",
+      "repCount": 13
+    },
+    {
+      "url": "https://implementationdetails.dev/assets/cqcon-mobile-first/",
+      "repCount": 4
+    },
+    {
+      "url": "https://implementationdetails.dev/assets/evolve13-cq-mobile-apps/plugin/markdown/example/",
+      "repCount": 2
+    },
+    {
+      "url": "https://implementationdetails.dev/contact/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/thanks/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/assets/evolve13-cq-mobile-apps/css/theme/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/assets/mobile-apps-m-and-m-in-aem/css/theme/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/page2/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/page3/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/page4/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/page5/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/page6/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/page7/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/page8/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/page9/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/page10/",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/assets/cqcon-mobile-first/plugin/notes/notes.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/assets/evolve13-cq-mobile-apps/plugin/notes/notes.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/assets/evolve13-cq-mobile-apps/plugin/postmessage/example.html",
+      "repCount": 1
+    },
+    {
+      "url": "https://implementationdetails.dev/assets/mobile-apps-m-and-m-in-aem/plugin/notes/notes.html",
+      "repCount": 1
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "logger": {}
+  },
+  "method": "SITEMAP"
+}
